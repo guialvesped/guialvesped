@@ -7,7 +7,7 @@ Hello there! 👋 I'm Guilherme, an 18-year-old aspiring software developer gear
 - 💡 Passionate about coding, problem-solving, and learning new technologies.
 - 🌟 Excited to collaborate on exciting projects and contribute to the open-source community.
 - 🌐 Committed to continuous improvement and growth as a developer.
-- - 👨‍💻 Now I'm learning JavaScript and coding in CSS and HTML.
+-  👨‍💻 Now I'm learning JavaScript and coding in CSS and HTML.
 
 ### What to Expect
 
