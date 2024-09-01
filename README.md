@@ -1,6 +1,6 @@
 ## Guilherme - Aspiring Software Developer
 
-Hello there! 👋 I'm Guilherme, an 18-year-old aspiring software developer gearing up to start my journey into the world of technology. In the coming year, I'll be embarking on a new adventure as I begin my studies in the field of Analysis and Software Development.
+Hello there! 👋 I'm Guilherme, an 19-year-old aspiring software developer gearing up to start my journey into the world of technology. In the coming year, I'll be embarking on a new adventure as I begin my studies in the field of Analysis and Software Development.
 
 ### About Me
 - 📚 Student of Analysis and Software Development in FIAP, started in 2024.
