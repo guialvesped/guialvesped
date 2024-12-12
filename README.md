@@ -1,8 +1,9 @@
-## Guilherme - Software Developer
+## Guilherme Alves Pedroso - Software Developer
 
-Hello there! 👋 I'm Guilherme, an 19-year-old aspiring software developer gearing up to start my journey into the world of technology. In the coming year, I'll be embarking on a new adventure as I begin my studies in the field of Analysis and Software Development.
+Hello there! 👋 I'm Guilherme, an 19-year-old software developer starting my journey into the world of technology. Now I work as Full Stack Developer and in the coming year I'll be staring my second year studying in the field of Analysis and Software Development.
 
 ### About Me
+- 🏢 Full Stack Developer
 - 📚 Student of Analysis and Software Development in FIAP, started in 2024.
 - 💡 Passionate about coding, problem-solving, and learning new technologies.
 - 🌟 Excited to collaborate on exciting projects and contribute to the open-source community.
