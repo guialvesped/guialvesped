@@ -16,6 +16,11 @@ You can expect to find a variety of projects on my GitHub, ranging from coding e
 
 Let's build a brighter digital future together! 💻✨
 
+<img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesped&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+    />
+
 ### Connect with Me
 
 <p align="left">
