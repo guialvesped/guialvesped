@@ -1,4 +1,4 @@
-## Guilherme - Aspiring Software Developer
+## Guilherme - Software Developer
 
 Hello there! 👋 I'm Guilherme, an 19-year-old aspiring software developer gearing up to start my journey into the world of technology. In the coming year, I'll be embarking on a new adventure as I begin my studies in the field of Analysis and Software Development.
 
