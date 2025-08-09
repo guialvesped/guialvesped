@@ -8,7 +8,6 @@ Hello there! 👋 I'm Guilherme, an 19-year-old software developer starting my j
 - 💡 Passionate about coding, problem-solving, and learning new technologies.
 - 🌟 Excited to collaborate on exciting projects and contribute to the open-source community.
 - 🌐 Committed to continuous improvement and growth as a developer.
--  👨‍💻 Now I'm learning Typescript and Java and coding in CSS, HTML, Python, Javascript, Jquery, React and Bootstrap.
 
 ### What to Expect
 
