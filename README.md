@@ -1,7 +1,7 @@
 # 👋 Guilherme Alves Pedroso  
 ### Junior Full Stack Developer
 
-Hi! I'm Guilherme, a Junior Full Stack Developer passionate about building scalable and efficient applications. I’m currently working as a Full Stack Developer and studying Analysis and Systems Development at FIAP.
+Hi! I'm Guilherme, a Junior Full Stack Developer passionate about building scalable and efficient applications. I’m currently working as a Full Stack Developer.
 
 I focus on writing clean, maintainable code and continuously improving my knowledge in backend architecture, frontend performance, and software engineering best practices.
 
