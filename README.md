@@ -1,26 +1,44 @@
-## Guilherme Alves Pedroso - Software Developer
+# 👋 Guilherme Alves Pedroso  
+### Junior Full Stack Developer
 
-Hello there! 👋 I'm Guilherme, an 19-year-old software developer starting my journey into the world of technology. Now I work as Full Stack Developer and in the coming year I'll be staring my second year studying in the field of Analysis and Software Development.
+Hi! I'm Guilherme, a Junior Full Stack Developer passionate about building scalable and efficient applications. I’m currently working as a Full Stack Developer and studying Analysis and Systems Development at FIAP.
 
-### About Me
-- 🏢 Full Stack Developer
-- 📚 Student of Analysis and Software Development in FIAP, started in 2024.
-- 💡 Passionate about coding, problem-solving, and learning new technologies.
-- 🌟 Excited to collaborate on exciting projects and contribute to the open-source community.
-- 🌐 Committed to continuous improvement and growth as a developer.
+I focus on writing clean, maintainable code and continuously improving my knowledge in backend architecture, frontend performance, and software engineering best practices.
 
-### What to Expect
+---
 
-You can expect to find a variety of projects on my GitHub, ranging from coding exercises to personal projects that showcase my evolving skills. I'm always eager to connect with fellow developers and tech enthusiasts, so feel free to reach out and collaborate on interesting projects or just chat about technology.
+## 🚀 About Me
 
-Let's build a brighter digital future together! 💻✨
+- 💼 Working as a **Full Stack Developer**
+- 🎓 Analysis and Systems Development student at FIAP (since 2024)
+- 🧠 Strong interest in backend architecture, APIs, and scalable systems
+- 📱 Experience building web and mobile applications
+- 🔍 Focused on performance, clean code, and good development practices
+- 📚 Always learning and evolving as a software engineer
 
+
+## 📌 What You’ll Find Here
+
+On my GitHub, you’ll find:
+
+- Full Stack applications (Web & Mobile)
+- REST API projects
+- Authentication and authorization implementations
+- Coding challenges and algorithm exercises
+- Architecture experiments and backend-focused projects
+
+I enjoy solving real-world problems and turning ideas into working software.
+
+---
+
+## 📊 GitHub Stats
 
 [![card](https://github-readme-stats.vercel.app/api?username=guialvesped&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesped&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-    />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesped&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+alt="Github Stats"
+/>
 
 ### Main languages ans tools
 
@@ -47,8 +65,8 @@ Let's build a brighter digital future together! 💻✨
   <a href="mailto:alvespedrosog@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/guilherme-alves-pedroso-8474aa276/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guialvesped" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/g__alves_/?next=%2Favaferferii%2Ffeed%2F&locale=en_US%2Cen_US" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/g__alves_/" alt="Instagram"/></a>
 </p>
 
